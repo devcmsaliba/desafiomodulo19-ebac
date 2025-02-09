@@ -9,6 +9,9 @@ O GitHub é o maior repositório de código aberto na internet. Nele, você pode
 Desafio:
 
 Utilize os pacotes Python requests e beautifulsoup4 para extrair os 10 projetos mais populares do GitHub. Acesse o link https://github.com/trending
+
 #Confira o arquivo robots.txt do website
+
 #Escreva os dados extraídos no arquivo github.csv
+
 #Escreva o código no arquivo github.py
